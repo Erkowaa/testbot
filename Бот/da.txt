@@ -1,0 +1,11 @@
+6278627089:AAGr4lSwa8yn1QEFFtNCwOklzR5D8DGDS3E
+
+group_list = [
+    {"name": "Group 1", "link": "https://t.me/+cWUcZ341jyhhYmEy"},
+    {"name": "Group 2", "link": "https://t.me/+KS9xI1ocXx9iMmJi"},
+    {"name": "Group 3", "link": "https://t.me/+tCrSvRTXyfViN2Ji"}
+
+Напишите /move
+
+
+687940985
